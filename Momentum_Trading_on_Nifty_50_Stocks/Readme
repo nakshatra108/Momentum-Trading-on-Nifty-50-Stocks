@@ -1,0 +1,5 @@
+In this project I have backtest a Momentum based Long-Short neutral trading strategy on Nifty 50 stocks to gain profits but also manage our risk.
+
+This strategy involves taking long positions in stocks expected to increase in value and short positions in stocks expected to decrease in value on the basis of their monthly returns, balancing these positions to be market-neutral.
+
+Calculated monthly, cumulative, and risk-adjusted returns to identify top and bottom performing stocks.
